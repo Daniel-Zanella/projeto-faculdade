@@ -1,0 +1,11 @@
+/* Configuração da barra de navegação */
+ .cabecalho_nav .container{
+        display: flex;
+        align-items: center;
+       justify-content: space-around;
+
+ }
+ .cabecalho_nav .navegacao{
+display: flex;
+
+ }
