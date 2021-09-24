@@ -1,14 +1,16 @@
 /* Configuração do header */
+
+
 nav a {
+    padding: 1%;
+    width: 90px;
     display: block;
     text-decoration:none;
     color: black;
     border: solid;
-    width: 80px;
     border-width: 1px;
     text-align: center;
     border-radius: 5px;
-    padding: 10px;
     margin-left: 15px;
     background-color: #b3d9ff;
     
@@ -23,13 +25,14 @@ nav a:hover{
 background-color: #0073e6;
 
 }
-.logo{
-    text-decoration:none;
-    
+a .logo{
+max-width: 10%;
+
 }
+    
 .logo img{
   
-    width: 20%;
+   max-width: 20%;
    
 }
 .cabecalho_nav .carrossel{

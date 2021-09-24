@@ -9,3 +9,11 @@
 display: flex;
 
  }
+
+
+ footer .container{
+      display: flex;
+      justify-content: space-between;
+      
+
+ }
